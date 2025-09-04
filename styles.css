@@ -1,0 +1,10 @@
+h1{
+    width: 200px;
+    height: 200px;
+    margin: 12px;
+    padding: 20px;
+    display: inline-block;
+    border: 10px solid rgb(127, 161, 14);
+    background-image:url() ;
+       border-radius: 20px 80px;
+}
