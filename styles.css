@@ -1,10 +1,21 @@
-h1{
+img{
     width: 200px;
     height: 200px;
     margin: 12px;
-    padding: 20px;
+    
     display: inline-block;
-    border: 10px solid rgb(127, 161, 14);
     background-image:url() ;
-       border-radius: 20px 80px;
+    border-radius: 50%;
+    justify-content: center;
+    outline: 10px solid rgb(248, 31, 31);
+   
 }
+body{
+    text-align: center;
+    margin-top: 20%;
+}
+
+.container>img{
+    outline: 10px solid black;
+}
+    
